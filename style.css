@@ -1,0 +1,10 @@
+body{
+    font-family:  'Roboto Mono', monospace;
+}
+main{
+    background-color: black;
+}
+.text_green{
+    color: rgb(135, 255, 135);
+    font-weight: 200;
+}
