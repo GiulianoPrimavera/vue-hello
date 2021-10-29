@@ -9,6 +9,7 @@ body{
 main{
     background-color: black;
     padding: 5px;
+    height: 100vh;
 }
 .text_green{
     color: rgb(135, 255, 135);
